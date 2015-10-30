@@ -1,0 +1,16 @@
+~ home
+$ what to do
+ls- view content of folder 
+Blue text- folder
+white text- normal text
+cd- change directory
+git add- add to file of repositpry
+git commit- commit all changes 
+git push- puah all changes 
+git status- view the status of the file 
+R (tab)- README. md file
+Green text- who you are and where you are
+v (tab)- vanda2027-cmis-wd
+L (tab)- LICENSE
+ch (tab)- cheatsheet. txt
+cd.. - go up to the top
