@@ -1,0 +1,10 @@
+Click on the terminal icon on the right hand side of the folder.
+Copy the cloning url in your respository folder on the bottom right and paste it in your terminal by pressing "Shift" then "Insert"
+Type cd and type the name of your respository folder and hit enter.
+Type gedit space and the name of your new file space then type "&" and hit enter.
+After you hit enter, a text file will be opened. 
+Type in the information you want.
+After you're done hit save and then exit out of the text file.
+Then type "git add" and the text file name.
+Type "git commit" -m "commit message" In the commit message you write a short description and hit enter.
+Type "git push" It will require you to type in the github username. Hit enter and it'll ask you for your password. When you type in your password, it'll be invisible, so just type it in and hit enter.
