@@ -14,3 +14,12 @@ v (tab)- vanda2027-cmis-wd
 L (tab)- LICENSE
 ch (tab)- cheatsheet. txt
 cd.. - go up to the top
+<> </>- one element 
+<>- tag
+sftp vanda2027@cmis-hsteacher: open sftp 
+rm- remove
+!ls- list what's in public html folder
+ls* - check all files uploaded in respository folder
+put *- add all files in respository folder
+rm *- remove all files in respository folder
+
