@@ -3,7 +3,8 @@ h1{
 	font-size:45px;
 	color:#66CCCC;
 	background-color:#000000; 
-	border: solid 10px #99FFCC;	
+	border: solid 10px ;	
+	border-color:#990066 #990099 #9900cc #9900ff;
 	
 }
 h2{
@@ -12,15 +13,26 @@ h2{
 	color:#CCFFCc;
 	background-color:#000000;
 	font-size: 35px;
+	border: solid 7px;
+	border-color: #6699cc #66cccc #66ffcc #66cc99;
 }
 main{
 	font-family:Verdana, sans-serif;
 	font-size: 25px;
 	background-color:#000000;
 	color: #FF6666;
+	border: solid 5px;
+	border-color: #990066 #990099 #9900cc #9900ff;
+
+}
+
 footer{
 	font-family: Fixed, monospace;
-	font-size: 21px;
-	background-color:#B8B8B8;
-	color: 
-
+	font-size: 20px;
+	color: #FFFFFF;
+	background-color:#000000;
+	
+}
+body{ 
+	background-image: url(http://38.media.tumblr.com/75c50e58521612f270d22a4452069bd4/tumblr_nmsxsavZMc1uosmx1o1_1280.gif);
+}
