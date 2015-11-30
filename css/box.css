@@ -1,0 +1,19 @@
+h2 ~ ul {
+    width: 250px;
+    padding: 25px;
+    border: 25px solid yellow;
+    margin: 25px;
+}
+h2 + ol{
+	width: 500px;
+    padding: 30px;
+    border: 10px solid navy;
+    margin: 20px;
+}
+header > h1 {
+	width: 500px;
+    padding: 30px;
+    border: 10px solid navy;
+    margin: 20px;
+}
+		
