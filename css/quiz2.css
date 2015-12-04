@@ -1,0 +1,22 @@
+header {
+	background-color: #FF0000;	
+	width: 400px;
+	border-right: 100px solid #FFFF00;
+	height: 200px;
+	
+}
+h1 {
+	background-color: #FF0000;	
+	width: 200px;
+	height: 40px;
+	border: 1px solid #FFFF00;
+	margin: 50px
+}
+h1+p {
+	font-size:20px;
+	color:#FFFFFF;
+	margin: 50px
+	
+}
+
+	
