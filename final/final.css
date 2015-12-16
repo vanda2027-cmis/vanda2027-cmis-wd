@@ -1,0 +1,6 @@
+*{ outline: solid #33CCCC
+}
+nav {
+  width: 250px;
+  float: left;
+}
